@@ -8,8 +8,8 @@ const {
     PI } =
     Math;
 const random = n => n * Math.random();
-let glowAmt = 3.2;
-let alpha = 0.25;
+let glowAmt = 3;
+let alpha = 0.3;
 
 let canvas, background, CONFIG;
 const fireworks = [];
