@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300");
+::-moz-selection {
+  background: transparent;
+}
+::selection {
+  background: transparent;
+}
+
+html, body {
+  background: black;
+}
+
+canvas {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+}
